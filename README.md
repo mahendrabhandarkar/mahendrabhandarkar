@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Mahendra Bhandarkar!</h1>
+<h3 align="center">Java Spring Boot, Microservices & PHP Lead Developer | Machine Learning Aficionado | Geek for C++ | Open Source Contributor</h3>
 
-<!--
-**mahendrabhandarkar/mahendrabhandarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
-Here are some ideas to get you started:
+Thrilled to connect with you here! As a web developer, I'm adept in Java Spring Boot, Microservices, Ruby on Rails, PHP Lead Developer and other technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Software Developer at Expleo Solutions Ltd with previous experience at Maniks, Superreply, and CausalFunnel, building and optimizing production-scale software systems.
+- 💡 Passionate about solving real-world problems, building scalable web applications, and mentoring aspiring developers.
+- 🔭 Currently working on my **AI Skills**
+- 📫 How to reach me: [mahendrabhandarkar@gmail.com](mailto:mahendrabhandarkar@gmail.com)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-6o7IQzJHY56fzAVNldLTWjLpT8ku_G6/view?usp=sharing)
+- 📧 Know more about me: [Portfolio](https://mahendrabhandarkar.github.io/mahendrabhandarkar.github.io/)
+
+  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrabhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="Mahendra Bhandarkar" /> </p> -->
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahendrabhandarkar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahendra Bhandarkar" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/mahendrabhandarkar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
+   <!-- <a href="https://auth.geeksforgeeks.org/user/nandiniji127q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/nandini805" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nandini805" height="30" width="40" /></a> -->
+</p>
+
+
+
+
+## 💻 Tech Stack:
+
+| Category                     | Skills and Icons                                                            |
+|------------------------------|---------------------------------------------------------------------------|
+| **Programming Languages**    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  |
+| **Frontend Development**     | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) |
+| **Backend Development**      | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=cloudflare&logoColor=white)|
+| **AI/ML Technologies**       | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Databases**                | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Visualization**       | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)|
+
+<br>
+
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+ <!--
+## 📊 GitHub Stats:
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=mahendrabhandarkar&show_icons=true&locale=en&theme=dark&rank_icon=github&border_radius=10" alt="mahendrabhandarkar"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendrabhandarkar&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="mahendrabhandarkar" height="195"  />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahendrabhandarkar&theme=dark&border_radius=10" alt="mahendrabhandarkar" />
+</p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 -->
+
+### Thank you for Visiting!
+
+Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊
