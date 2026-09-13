@@ -9,7 +9,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in Java Spring 
 - 💡 Passionate about solving real-world problems, building scalable web applications, and mentoring aspiring developers.
 - 🔭 Currently working on my **AI Skills**
 - 📫 How to reach me: [mahendrabhandarkar@gmail.com](mailto:mahendrabhandarkar@gmail.com)
-<!-- - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-6o7IQzJHY56fzAVNldLTWjLpT8ku_G6/view?usp=sharing) -->
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1mHXCD_xO8bY0HZl2Ycehg6f-wN7WbJBK/view?usp=drive_link)
 - 📧 Know more about me: [Portfolio](https://mahendrabhandarkar.github.io/mahendrabhandarkar.github.io/)
 
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrabhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="Mahendra Bhandarkar" /> </p> -->
